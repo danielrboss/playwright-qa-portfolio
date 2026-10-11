@@ -89,6 +89,11 @@ Playwright is configured to provide:
 
 These artifacts help investigate failures and provide reproducible testing evidence.
 
+## QA Documentation
+
+- [Test Plan](docs/TEST-PLAN.md)
+- [Bug Report Template](docs/BUG-REPORT.md)
+
 ## Future Improvements
 
 - Expand negative and edge-case coverage
